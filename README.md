@@ -1,4 +1,4 @@
-# The-Secret-of-a-Floating-Island
+# The-Secret-of-the-Floating-Island
 VR adventure game 'The Secret of a Floating Island' created by Team Spectrum as a graduation project.
 
 (It is difficult to upload the project file because the capacity exceeds 5GB).
