@@ -1,0 +1,1 @@
+{"playerPos":{"x":66.94999694824219,"y":29.016080856323243,"z":79.52999877929688},"playerRot":{"x":0.0,"y":108.81717681884766,"z":0.0},"SceneName":"SampleScene","invenArrayNumber":[],"invenItemName":[],"invenItemNumber":[]}
