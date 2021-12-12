@@ -15,4 +15,4 @@ VR ver. &nbsp;&nbsp;&nbsp; control : oculus controller
 
 Development period : 2021.02~2021.10
 
-Play time Expectation : 3h
+Estimated Playing time : 3h
