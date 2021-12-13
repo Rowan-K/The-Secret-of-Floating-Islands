@@ -3,7 +3,7 @@ VR adventure game 'The Secret of the Floating Island' created by Team Spectrum a
 
 (It is difficult to upload the project file because the capacity exceeds 5GB).
 
-Execution Method : Download all of 'TFI' files and run 'FloatingIsland.exe'
+Execution Method : Download 'TFI' folder and run 'FloatingIsland.exe'
 
 It was created in Unity 3D 2020.2.3f1 version.
 
